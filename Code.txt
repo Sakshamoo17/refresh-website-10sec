@@ -1,0 +1,6 @@
+CODE FOR REFRESHING WEBSITE SO THAT IT SHOULD BE LIVE AND RESPONSIVE
+
+
+<head>
+  <meta http-equiv="refresh" content="30">
+</head>
