@@ -1,2 +1,5 @@
 # refresh-website-10sec
-Auto refresh website in 5/10/15/30 sec so that it should be responsive 
+Auto refresh website in 5/10/15/30 sec so that it should be responsive.
+Code edited by:
+Pankaj M. Patidar
+Saksham Sharma
